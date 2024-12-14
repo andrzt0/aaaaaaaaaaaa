@@ -1,4 +1,4 @@
-jei = {}
+trading = {}
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -369,4 +369,4 @@ jei = {}
 	#Durability for steel weapons
 	#Range: 1 ~ 100000
 	durability = 480
-	#Set to true to disable st
+	#Set to true to disabl
