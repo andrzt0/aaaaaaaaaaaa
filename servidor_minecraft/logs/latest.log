@@ -367,3 +367,7 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [14Dec2024 02:11:35.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.125s)! For help, type "help"
 [14Dec2024 02:11:35.401] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [14Dec2024 02:11:35.437] [Server thread/INFO] [puffish_skills/]: [puffish_skills] Mod configuration loaded successfully!
+[14Dec2024 02:29:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 02:29:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 02:29:13.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 02:29:16.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
